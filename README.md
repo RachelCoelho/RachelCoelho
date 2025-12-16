@@ -1,5 +1,5 @@
 ### Hi there, I'm Rachel! 👋
-I'm a Tech Student based in Brasília, transitioning my career from Aviation/Accounting to **Software Development & QA**.
+I'm a Tech Student based in Brasília, transitioning my career from Aviation/Accounting to **Software Development, QA & Cybersecurity**.
 
 - 🔭 I’m currently working on my **Java & SQL Skills**.
 - 🌱 I’m currently studying **Analysis and Systems Development (ADS)**.
