@@ -19,6 +19,8 @@ I'm a Tech Student based in Brasília, transitioning my career from Aviation/Acc
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Bitrix24](https://img.shields.io/badge/Bitrix24-00AEEF?style=for-the-badge&logo=bitrix24&logoColor=white)
 ---
 
 ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachelCoelho&show_icons=true&theme=radical)
